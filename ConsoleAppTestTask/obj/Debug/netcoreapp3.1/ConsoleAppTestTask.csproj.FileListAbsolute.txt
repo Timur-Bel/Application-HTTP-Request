@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\bin\Debug\netcoreapp3.1\ConsoleAppTestTask.exe
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\bin\Debug\netcoreapp3.1\ConsoleAppTestTask.deps.json
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\bin\Debug\netcoreapp3.1\ConsoleAppTestTask.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\bin\Debug\netcoreapp3.1\ConsoleAppTestTask.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\bin\Debug\netcoreapp3.1\ConsoleAppTestTask.dll
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\bin\Debug\netcoreapp3.1\ConsoleAppTestTask.pdb
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.dll
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.pdb
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\ADMIN\source\repos\ConsoleAppTestTask\obj\Debug\netcoreapp3.1\ConsoleAppTestTask.csproj.CopyComplete
