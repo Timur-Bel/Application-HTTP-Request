@@ -39,7 +39,7 @@ namespace ConsoleAppTestTask
                     {
                         Buf = "";
                         i += 6;
-                        while (str.Substring(i, 1) != @"=")
+                        while ((str.Substring(i, 1) != @"=") && (str.Substring(i, 1) != @""""))
                         {
                             Buf += str.Substring(i, 1);
                             i++;
